@@ -1,0 +1,105 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:App.xaml" caret="383" fromTop="10" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:MainWindow.xaml" caret="1312" fromTop="15" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:Persona.cs" caret="318" fromTop="11" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="773" fromTop="0" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:MainWindow.xaml.cs" caret="0" fromTop="0" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:App.xaml.cs" caret="199" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:Persona.cs" caret="40" fromTop="4" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:Persona.cs" caret="17" fromTop="2" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="2083" fromTop="16" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="2933" fromTop="26" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="2822" fromTop="27" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:App.xaml" caret="232" fromTop="4" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:App.xaml.cs" caret="384" fromTop="23" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:MainWindow.xaml.cs" caret="190" fromTop="13" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="1568" fromTop="13" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="149" fromTop="7" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="783" fromTop="16" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="477" fromTop="19" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:Persona.cs" caret="318" fromTop="11" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="1792" fromTop="18" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="324" fromTop="11" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="389" fromTop="11" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="751" fromTop="22" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="1298" fromTop="27" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="1193" fromTop="23" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="987" fromTop="18" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:MainWindow.xaml.cs" caret="48" fromTop="4" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:App.xaml.cs" caret="99" fromTop="6" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:App.xaml.cs" caret="397" fromTop="13" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="2585" fromTop="30" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="2536" fromTop="24" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:MainWindow.xaml" caret="1018" fromTop="7" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:MainWindow.xaml" caret="238" fromTop="4" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:MainWindow.xaml" caret="1265" fromTop="4" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="1329" fromTop="11" />
+      <File id="DED13C37-8BEB-445B-AF4A-91A11A35256B/f:PersonaViewModel.cs" caret="0" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="mbox" priority="0" />
+      <Item value="WidthAndHeight" priority="1" />
+      <Item value="Auto" priority="0" />
+      <Item value="MessageBox`0" priority="1" />
+      <Item value="private" priority="2" />
+      <Item value="string" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="readonly" priority="1" />
+      <Item value="Persona`0" priority="2" />
+      <Item value="LaPersona" priority="1" />
+      <Item value="Persona" priority="0" />
+      <Item value="Nombre" priority="1" />
+      <Item value="apellido2" priority="0" />
+      <Item value="DataContext" priority="1" />
+      <Item value="apellidos" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="StartupEventArgs`0" priority="0" />
+      <Item value="var" priority="2" />
+      <Item value="new" priority="2" />
+      <Item value="Apellido" priority="0" />
+      <Item value="Apellido2" priority="0" />
+      <Item value="MainWindowViewModel`0" priority="0" />
+      <Item value="Model" priority="0" />
+      <Item value="MainWindow`0" priority="0" />
+      <Item value="viewModel" priority="0" />
+      <Item value="view" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HelloWPF.Persona">
+      <Item value="NombreCompleto" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HelloWPF.MainWindow">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

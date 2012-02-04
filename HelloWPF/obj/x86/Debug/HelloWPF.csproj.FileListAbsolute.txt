@@ -1,0 +1,13 @@
+c:\users\win7\documents\visual studio 2010\Projects\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe
+c:\users\win7\documents\visual studio 2010\Projects\HelloWPF\HelloWPF\bin\Debug\HelloWPF.pdb
+c:\users\win7\documents\visual studio 2010\Projects\HelloWPF\HelloWPF\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2010\Projects\HelloWPF\HelloWPF\obj\x86\Debug\MainWindow.baml
+c:\users\win7\documents\visual studio 2010\Projects\HelloWPF\HelloWPF\obj\x86\Debug\MainWindow.g.cs
+c:\users\win7\documents\visual studio 2010\Projects\HelloWPF\HelloWPF\obj\x86\Debug\App.g.cs
+c:\users\win7\documents\visual studio 2010\Projects\HelloWPF\HelloWPF\obj\x86\Debug\HelloWPF_MarkupCompile.cache
+c:\users\win7\documents\visual studio 2010\Projects\HelloWPF\HelloWPF\obj\x86\Debug\HelloWPF.g.resources
+c:\users\win7\documents\visual studio 2010\Projects\HelloWPF\HelloWPF\obj\x86\Debug\HelloWPF.Properties.Resources.resources
+c:\users\win7\documents\visual studio 2010\Projects\HelloWPF\HelloWPF\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\win7\documents\visual studio 2010\Projects\HelloWPF\HelloWPF\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\win7\documents\visual studio 2010\Projects\HelloWPF\HelloWPF\obj\x86\Debug\HelloWPF.exe
+c:\users\win7\documents\visual studio 2010\Projects\HelloWPF\HelloWPF\obj\x86\Debug\HelloWPF.pdb

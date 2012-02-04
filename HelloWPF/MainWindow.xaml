@@ -1,0 +1,32 @@
+﻿<Window x:Class="HelloWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="{Binding NombreCompleto}"  
+        Width="300" 
+        SizeToContent="Height">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Label Grid.Column="0" Grid.Row="0">Nombre:</Label>
+        <TextBox Name="nombre" Grid.Column="1" Grid.Row="0" Text="{Binding Nombre}"/>
+        
+        <Label Grid.Column="0" Grid.Row="1">Apellido-1:</Label>
+        <TextBox  Name="apellidos" Grid.Column="1" Grid.Row="1" Text="{Binding Apellido}"/>
+        
+        <Label Grid.Column="0" Grid.Row="2">Apellido-2:</Label>
+        <TextBox  Name="apellido2" Grid.Column="1" Grid.Row="2" Text="{Binding Apellido2}"/>
+
+        <Button Grid.Row="3" Grid.ColumnSpan="2" Command="{Binding SaludaCommand}">
+            <TextBlock TextAlignment="Center">Hello WPF !!</TextBlock>
+        </Button>
+    </Grid>
+</Window>
